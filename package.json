@@ -1,0 +1,17 @@
+{
+  "name": "nem-auth",
+  "description": "a simple auth solution for a Node, Express, Mongo stack",
+  "version": "0.0.1",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "chai-http": "^0.4.0",
+    "express": "^4.5.1",
+    "grunt-concurrent": "^0.5.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha": "^0.4.11",
+    "grunt-mocha-test": "^0.11.0",
+    "grunt-simple-mocha": "^0.4.0",
+    "matchdep": "^0.3.0",
+    "supertest": "^0.13.0"
+  }
+}
